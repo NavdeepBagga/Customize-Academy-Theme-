@@ -517,10 +517,11 @@ $config = array (
 							'type' => 'users'),					
 							
 					array(	'name' => __('Certificate','academy'),
+/////////EDIT by Navdeep Bagga(admin@navdeepbagga.com)//////////////////					
 							'desc' => __('Course certificate. Use %fullname%, %username%, %email%, %state%, %license_number%, %date% and %title% codes to show them in the certificate text.','academy'),
 							'id' => 'certificate',
 							'type' => 'certificate'),
-							
+////////////////////////////////////////////////////////////////////////							
 					array(	'name' => __('Background','academy'),
 							'desc' => __('Course background.','academy'),
 							'id' => 'background',
